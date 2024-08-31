@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="algoritmos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="1089"/>
+        <CursorPos X="10" Y="1690"/>
+        <FoldState Value=" TCKBC1 TM Hi33]93iU0{@1 PBkN0 T0jR2R3 PiYjA2l"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="practica.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="44" Y="18"/>
+        <UsageCount Value="24"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\miparte (1).lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="537"/>
+        <CursorPos X="7" Y="560"/>
+        <FoldState Value=" T3U0Eh"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\AppData\Local\Temp\Rar$DIa16116.38090\algoritmos.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\algoritmos (1).lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
